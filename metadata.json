@@ -1,0 +1,6 @@
+{
+  "name": "Monsoon Guard - Hyperlocal Farm Intelligence",
+  "description": "Hyperlocal monsoon onset, break & dry-spell intelligence for panchayat-level farm decisions and crop-specific agromet advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
